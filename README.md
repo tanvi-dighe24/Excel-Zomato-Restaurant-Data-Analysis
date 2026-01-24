@@ -1,4 +1,4 @@
-# Excel-Zomato-Restaurant-Data-Analysis
+# Excel-Zomato-Restaurant-Data-Analysis:
 This project conducts an in-depth analysis of Zomato restaurant data using Microsoft Excel to uncover key trends and insights within the food service industry. The analysis focuses on understanding restaurant performance, customer preferences, and market dynamics across various locations and cuisines.
 
 #Key Objectives:
@@ -24,9 +24,8 @@ Table Booking VS. Online Booking.
 No. of restaurants per country.
 KPI cards like: AVG. Ratings, Countries , Total Restaurants , Total Cusines , Votes.
 
-
-
 #Tools Used by me:
 Microsoft Excel (including PivotTables, Charts, and various functions, filter, KPI cards)
 
+#Experience gained:
 I learnt alot from this project, it has given me a core understanding of analysis skills set. Happy experience with @zomato project:)
