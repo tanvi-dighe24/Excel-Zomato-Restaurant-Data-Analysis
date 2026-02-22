@@ -14,15 +14,15 @@ Data Analysis: Utilized various Excel functions (e.g., VLOOKUP, SUMIF, COUNTIF, 
 Visualization: Created interactive charts and dashboards within Excel to visually represent findings related to restaurant distribution, ratings, cuisine popularity, and cost analysis.
 
 #Key Insights & Findings (Examples):
-Identification of top-rated restaurants and localities with high concentrations of specific cuisines.
-Analysis of the impact of online delivery and table booking options on customer ratings.
-Trends in average cost of dining across different cuisines and cities.
-Geographic distribution of Zomato's services and restaurant types.
-Total Restaurants by Average Ratings.
-Total Restaurants by Price Bucket.
-Table Booking VS. Online Booking.
-No. of restaurants per country.
-KPI cards like: AVG. Ratings, Countries , Total Restaurants , Total Cusines , Votes.
+-Identification of top-rated restaurants and localities with high concentrations of specific cuisines.
+-Analysis of the impact of online delivery and table booking options on customer ratings.
+-Trends in average cost of dining across different cuisines and cities.
+-Geographic distribution of Zomato's services and restaurant types.
+-Total Restaurants by Average Ratings.
+-Total Restaurants by Price Bucket.
+-Table Booking VS. Online Booking.
+-No. of restaurants per country.
+-KPI cards like: AVG. Ratings, Countries , Total Restaurants , Total Cusines , Votes.
 
 #Tools Used by me:
 Microsoft Excel (including PivotTables, Charts, and various functions, filter, KPI cards)
